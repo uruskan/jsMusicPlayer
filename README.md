@@ -17,3 +17,5 @@ This project was inspired by the FreeCodeCamp curriculum and various online reso
 
 License:
 This project is licensed under the BSD 3-Clause License. Feel free to use, modify, and distribute the code for personal and commercial purposes.
+
+![](jsMusicPlayer.png)
